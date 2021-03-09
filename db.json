@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "tesk task",
+      "day": "day and time",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "test test",
+      "day": "random day",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "random task",
+      "day": "randomer time",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "asfd",
+      "day": "wefwe",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
