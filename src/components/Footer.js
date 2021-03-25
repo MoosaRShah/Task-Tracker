@@ -4,7 +4,11 @@ const footer = () => {
   return (
     <footer>
       <h4>Copyright &copy; 2021</h4>
-      <Link to='/about'>About</Link>
+      <Link to='/about'>
+        <button className='btn' style={{ backgroundColor: 'lightseagreen' }}>
+          About
+        </button>
+      </Link>
     </footer>
   )
 }
